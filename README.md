@@ -35,8 +35,6 @@ The given IPython Notebook can be either downloaded to be run on your local Jupy
 # 📜 Credits
 Prashant Soni | Data Scientist | Data Science enthusiast
 
-Special thanks to AlmaBetter
-
 Contact me for Data Science Project Collaborations
 
 [![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/prashant-kumar-soni-a4387620b/) [![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/Prashant7026)
